@@ -8,3 +8,6 @@ MEMBUAT DATABASE
   
 MEMILIH DATABASE
   use nama_database;
+
+MENGHAPUS DATABASE
+  drop database nama_database;
