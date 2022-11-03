@@ -1,0 +1,10 @@
+Dasar SQL:
+
+MELIHAT SEMUA DATABASE
+  show databases;
+  
+MEMBUAT DATABASE
+  create database nama_database;
+  
+MEMILIH DATABASE
+  use nama_database;
